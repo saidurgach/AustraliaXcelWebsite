@@ -4,7 +4,7 @@ import axios from "axios";
 import { Container, Navbar, Nav ,Button, Row,Col,Card, ListGroup,Image,InputGroup,Form,Modal} from 'react-bootstrap';
 import AustraliaImg from '../assets/Australia-Image.jpg';
 import AustraliaImage1 from '../assets/AustraliaImage1.jpg';
-import AustraliaImage2 from '../assets/AustraliaImage2.jpg';
+import AustraliaImage2 from '../assets/Australiaimage2.jpg';
 import { FaBars, FaTimes } from 'react-icons/fa';
 
 import CountUp from "react-countup";
